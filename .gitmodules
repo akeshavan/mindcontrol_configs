@@ -1,3 +1,3 @@
 [submodule "abide/mindcontrol"]
 	path = abide/mindcontrol
-	url = git@github.com:akeshavan/mindcontrol
+	url = https://github.com/akeshavan/mindcontrol
