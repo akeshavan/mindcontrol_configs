@@ -69,7 +69,8 @@
             "ctx-rh-supramarginal": 2.000395, 
             "ctx-rh-transversetemporal": 1.175203
         }, 
-        "name": "NYU_0050965"
+        "name": "NYU_0050965", 
+        "subject_id": "0050965"
     }, 
     {
         "check_masks": [
@@ -141,7 +142,8 @@
             "ctx-rh-supramarginal": 1.7053099999999999, 
             "ctx-rh-transversetemporal": 1.642407
         }, 
-        "name": "NYU_0050966"
+        "name": "NYU_0050966", 
+        "subject_id": "0050966"
     }, 
     {
         "check_masks": [
@@ -213,7 +215,8 @@
             "ctx-rh-supramarginal": 2.256528, 
             "ctx-rh-transversetemporal": 1.6461130000000002
         }, 
-        "name": "NYU_0050967"
+        "name": "NYU_0050967", 
+        "subject_id": "0050967"
     }, 
     {
         "check_masks": [
@@ -285,7 +288,8 @@
             "ctx-rh-supramarginal": 1.9076400000000002, 
             "ctx-rh-transversetemporal": 1.582414
         }, 
-        "name": "NYU_0050968"
+        "name": "NYU_0050968", 
+        "subject_id": "0050968"
     }, 
     {
         "check_masks": [
@@ -357,7 +361,8 @@
             "ctx-rh-supramarginal": 2.171725, 
             "ctx-rh-transversetemporal": 1.55833
         }, 
-        "name": "NYU_0050969"
+        "name": "NYU_0050969", 
+        "subject_id": "0050969"
     }, 
     {
         "check_masks": [
@@ -429,7 +434,8 @@
             "ctx-rh-supramarginal": 2.051694, 
             "ctx-rh-transversetemporal": 1.723948
         }, 
-        "name": "NYU_0050970"
+        "name": "NYU_0050970", 
+        "subject_id": "0050970"
     }, 
     {
         "check_masks": [
@@ -501,7 +507,8 @@
             "ctx-rh-supramarginal": 2.286607, 
             "ctx-rh-transversetemporal": 1.787854
         }, 
-        "name": "NYU_0050972"
+        "name": "NYU_0050972", 
+        "subject_id": "0050972"
     }, 
     {
         "check_masks": [
@@ -573,7 +580,8 @@
             "ctx-rh-supramarginal": 1.61249, 
             "ctx-rh-transversetemporal": 1.245487
         }, 
-        "name": "NYU_0050973"
+        "name": "NYU_0050973", 
+        "subject_id": "0050973"
     }, 
     {
         "check_masks": [
@@ -645,7 +653,8 @@
             "ctx-rh-supramarginal": 2.316375, 
             "ctx-rh-transversetemporal": 1.196579
         }, 
-        "name": "NYU_0050974"
+        "name": "NYU_0050974", 
+        "subject_id": "0050974"
     }, 
     {
         "check_masks": [
@@ -717,7 +726,8 @@
             "ctx-rh-supramarginal": 2.127255, 
             "ctx-rh-transversetemporal": 1.14588
         }, 
-        "name": "NYU_0050976"
+        "name": "NYU_0050976", 
+        "subject_id": "0050976"
     }, 
     {
         "check_masks": [
@@ -789,7 +799,8 @@
             "ctx-rh-supramarginal": 1.519842, 
             "ctx-rh-transversetemporal": 1.8267650000000002
         }, 
-        "name": "NYU_0050977"
+        "name": "NYU_0050977", 
+        "subject_id": "0050977"
     }, 
     {
         "check_masks": [
@@ -861,7 +872,8 @@
             "ctx-rh-supramarginal": 2.262212, 
             "ctx-rh-transversetemporal": 1.564445
         }, 
-        "name": "NYU_0050978"
+        "name": "NYU_0050978", 
+        "subject_id": "0050978"
     }, 
     {
         "check_masks": [
@@ -933,7 +945,8 @@
             "ctx-rh-supramarginal": 2.3630169999999997, 
             "ctx-rh-transversetemporal": 1.241894
         }, 
-        "name": "NYU_0050979"
+        "name": "NYU_0050979", 
+        "subject_id": "0050979"
     }, 
     {
         "check_masks": [
@@ -1005,7 +1018,8 @@
             "ctx-rh-supramarginal": 2.102259, 
             "ctx-rh-transversetemporal": 1.8402560000000001
         }, 
-        "name": "NYU_0050981"
+        "name": "NYU_0050981", 
+        "subject_id": "0050981"
     }, 
     {
         "check_masks": [
@@ -1077,7 +1091,8 @@
             "ctx-rh-supramarginal": 1.9365700000000001, 
             "ctx-rh-transversetemporal": 1.580122
         }, 
-        "name": "NYU_0050982"
+        "name": "NYU_0050982", 
+        "subject_id": "0050982"
     }, 
     {
         "check_masks": [
@@ -1149,7 +1164,8 @@
             "ctx-rh-supramarginal": 1.588363, 
             "ctx-rh-transversetemporal": 1.5756649999999999
         }, 
-        "name": "NYU_0050983"
+        "name": "NYU_0050983", 
+        "subject_id": "0050983"
     }, 
     {
         "check_masks": [
@@ -1221,7 +1237,8 @@
             "ctx-rh-supramarginal": 1.910253, 
             "ctx-rh-transversetemporal": 1.8141080000000003
         }, 
-        "name": "NYU_0050984"
+        "name": "NYU_0050984", 
+        "subject_id": "0050984"
     }, 
     {
         "check_masks": [
@@ -1293,7 +1310,8 @@
             "ctx-rh-supramarginal": 2.575767, 
             "ctx-rh-transversetemporal": 1.742561
         }, 
-        "name": "NYU_0050985"
+        "name": "NYU_0050985", 
+        "subject_id": "0050985"
     }, 
     {
         "check_masks": [
@@ -1365,7 +1383,8 @@
             "ctx-rh-supramarginal": 2.190318, 
             "ctx-rh-transversetemporal": 1.5538040000000002
         }, 
-        "name": "NYU_0050986"
+        "name": "NYU_0050986", 
+        "subject_id": "0050986"
     }, 
     {
         "check_masks": [
@@ -1437,7 +1456,8 @@
             "ctx-rh-supramarginal": 1.9400490000000001, 
             "ctx-rh-transversetemporal": 1.16324
         }, 
-        "name": "NYU_0050987"
+        "name": "NYU_0050987", 
+        "subject_id": "0050987"
     }, 
     {
         "check_masks": [
@@ -1509,7 +1529,8 @@
             "ctx-rh-supramarginal": 1.8202669999999999, 
             "ctx-rh-transversetemporal": 1.409314
         }, 
-        "name": "NYU_0050988"
+        "name": "NYU_0050988", 
+        "subject_id": "0050988"
     }, 
     {
         "check_masks": [
@@ -1581,7 +1602,8 @@
             "ctx-rh-supramarginal": 1.889716, 
             "ctx-rh-transversetemporal": 1.903531
         }, 
-        "name": "NYU_0050989"
+        "name": "NYU_0050989", 
+        "subject_id": "0050989"
     }, 
     {
         "check_masks": [
@@ -1653,7 +1675,8 @@
             "ctx-rh-supramarginal": 2.040175, 
             "ctx-rh-transversetemporal": 1.57692
         }, 
-        "name": "NYU_0050990"
+        "name": "NYU_0050990", 
+        "subject_id": "0050990"
     }, 
     {
         "check_masks": [
@@ -1725,7 +1748,8 @@
             "ctx-rh-supramarginal": 1.612188, 
             "ctx-rh-transversetemporal": 1.169147
         }, 
-        "name": "NYU_0050991"
+        "name": "NYU_0050991", 
+        "subject_id": "0050991"
     }, 
     {
         "check_masks": [
@@ -1797,7 +1821,8 @@
             "ctx-rh-supramarginal": 2.097741, 
             "ctx-rh-transversetemporal": 1.647932
         }, 
-        "name": "NYU_0050992"
+        "name": "NYU_0050992", 
+        "subject_id": "0050992"
     }, 
     {
         "check_masks": [
@@ -1869,7 +1894,8 @@
             "ctx-rh-supramarginal": 2.436804, 
             "ctx-rh-transversetemporal": 1.803206
         }, 
-        "name": "NYU_0050993"
+        "name": "NYU_0050993", 
+        "subject_id": "0050993"
     }, 
     {
         "check_masks": [
@@ -1941,7 +1967,8 @@
             "ctx-rh-supramarginal": 2.161388, 
             "ctx-rh-transversetemporal": 1.694388
         }, 
-        "name": "NYU_0050994"
+        "name": "NYU_0050994", 
+        "subject_id": "0050994"
     }, 
     {
         "check_masks": [
@@ -2013,7 +2040,8 @@
             "ctx-rh-supramarginal": 1.8140310000000002, 
             "ctx-rh-transversetemporal": 1.4796129999999998
         }, 
-        "name": "NYU_0050995"
+        "name": "NYU_0050995", 
+        "subject_id": "0050995"
     }, 
     {
         "check_masks": [
@@ -2085,7 +2113,8 @@
             "ctx-rh-supramarginal": 1.7760150000000001, 
             "ctx-rh-transversetemporal": 1.390556
         }, 
-        "name": "NYU_0050996"
+        "name": "NYU_0050996", 
+        "subject_id": "0050996"
     }, 
     {
         "check_masks": [
@@ -2157,7 +2186,8 @@
             "ctx-rh-supramarginal": 2.16234, 
             "ctx-rh-transversetemporal": 2.0744130000000003
         }, 
-        "name": "NYU_0050997"
+        "name": "NYU_0050997", 
+        "subject_id": "0050997"
     }, 
     {
         "check_masks": [
@@ -2229,7 +2259,8 @@
             "ctx-rh-supramarginal": 1.762895, 
             "ctx-rh-transversetemporal": 1.208393
         }, 
-        "name": "NYU_0050998"
+        "name": "NYU_0050998", 
+        "subject_id": "0050998"
     }, 
     {
         "check_masks": [
@@ -2301,7 +2332,8 @@
             "ctx-rh-supramarginal": 2.251953, 
             "ctx-rh-transversetemporal": 1.5284280000000001
         }, 
-        "name": "NYU_0050999"
+        "name": "NYU_0050999", 
+        "subject_id": "0050999"
     }, 
     {
         "check_masks": [
@@ -2373,7 +2405,8 @@
             "ctx-rh-supramarginal": 2.411723, 
             "ctx-rh-transversetemporal": 1.352352
         }, 
-        "name": "NYU_0051000"
+        "name": "NYU_0051000", 
+        "subject_id": "0051000"
     }, 
     {
         "check_masks": [
@@ -2445,7 +2478,8 @@
             "ctx-rh-supramarginal": 1.9961419999999999, 
             "ctx-rh-transversetemporal": 1.247844
         }, 
-        "name": "NYU_0051001"
+        "name": "NYU_0051001", 
+        "subject_id": "0051001"
     }, 
     {
         "check_masks": [
@@ -2517,7 +2551,8 @@
             "ctx-rh-supramarginal": 2.16403, 
             "ctx-rh-transversetemporal": 1.52352
         }, 
-        "name": "NYU_0051002"
+        "name": "NYU_0051002", 
+        "subject_id": "0051002"
     }, 
     {
         "check_masks": [
@@ -2589,7 +2624,8 @@
             "ctx-rh-supramarginal": 2.507352, 
             "ctx-rh-transversetemporal": 1.364708
         }, 
-        "name": "NYU_0051003"
+        "name": "NYU_0051003", 
+        "subject_id": "0051003"
     }, 
     {
         "check_masks": [
@@ -2661,7 +2697,8 @@
             "ctx-rh-supramarginal": 2.653616, 
             "ctx-rh-transversetemporal": 1.4716639999999999
         }, 
-        "name": "NYU_0051006"
+        "name": "NYU_0051006", 
+        "subject_id": "0051006"
     }, 
     {
         "check_masks": [
@@ -2733,7 +2770,8 @@
             "ctx-rh-supramarginal": 2.1654299999999997, 
             "ctx-rh-transversetemporal": 1.301261
         }, 
-        "name": "NYU_0051007"
+        "name": "NYU_0051007", 
+        "subject_id": "0051007"
     }, 
     {
         "check_masks": [
@@ -2805,7 +2843,8 @@
             "ctx-rh-supramarginal": 1.7008, 
             "ctx-rh-transversetemporal": 1.301775
         }, 
-        "name": "NYU_0051008"
+        "name": "NYU_0051008", 
+        "subject_id": "0051008"
     }, 
     {
         "check_masks": [
@@ -2877,7 +2916,8 @@
             "ctx-rh-supramarginal": 2.142472, 
             "ctx-rh-transversetemporal": 1.702954
         }, 
-        "name": "NYU_0051009"
+        "name": "NYU_0051009", 
+        "subject_id": "0051009"
     }, 
     {
         "check_masks": [
@@ -2949,7 +2989,8 @@
             "ctx-rh-supramarginal": 1.9473599999999998, 
             "ctx-rh-transversetemporal": 1.541397
         }, 
-        "name": "NYU_0051010"
+        "name": "NYU_0051010", 
+        "subject_id": "0051010"
     }, 
     {
         "check_masks": [
@@ -3021,7 +3062,8 @@
             "ctx-rh-supramarginal": 2.502999, 
             "ctx-rh-transversetemporal": 1.7550279999999998
         }, 
-        "name": "NYU_0051011"
+        "name": "NYU_0051011", 
+        "subject_id": "0051011"
     }, 
     {
         "check_masks": [
@@ -3093,7 +3135,8 @@
             "ctx-rh-supramarginal": 2.083217, 
             "ctx-rh-transversetemporal": 1.500264
         }, 
-        "name": "NYU_0051012"
+        "name": "NYU_0051012", 
+        "subject_id": "0051012"
     }, 
     {
         "check_masks": [
@@ -3165,7 +3208,8 @@
             "ctx-rh-supramarginal": 2.0179169999999997, 
             "ctx-rh-transversetemporal": 1.312051
         }, 
-        "name": "NYU_0051013"
+        "name": "NYU_0051013", 
+        "subject_id": "0051013"
     }, 
     {
         "check_masks": [
@@ -3237,7 +3281,8 @@
             "ctx-rh-supramarginal": 1.975618, 
             "ctx-rh-transversetemporal": 1.797569
         }, 
-        "name": "NYU_0051014"
+        "name": "NYU_0051014", 
+        "subject_id": "0051014"
     }, 
     {
         "check_masks": [
@@ -3309,7 +3354,8 @@
             "ctx-rh-supramarginal": 1.980763, 
             "ctx-rh-transversetemporal": 1.782978
         }, 
-        "name": "NYU_0051015"
+        "name": "NYU_0051015", 
+        "subject_id": "0051015"
     }, 
     {
         "check_masks": [
@@ -3381,7 +3427,8 @@
             "ctx-rh-supramarginal": 2.1064060000000002, 
             "ctx-rh-transversetemporal": 1.9313900000000002
         }, 
-        "name": "NYU_0051016"
+        "name": "NYU_0051016", 
+        "subject_id": "0051016"
     }, 
     {
         "check_masks": [
@@ -3453,7 +3500,8 @@
             "ctx-rh-supramarginal": 2.12133, 
             "ctx-rh-transversetemporal": 2.198211
         }, 
-        "name": "NYU_0051017"
+        "name": "NYU_0051017", 
+        "subject_id": "0051017"
     }, 
     {
         "check_masks": [
@@ -3525,7 +3573,8 @@
             "ctx-rh-supramarginal": 2.03678, 
             "ctx-rh-transversetemporal": 1.585602
         }, 
-        "name": "NYU_0051018"
+        "name": "NYU_0051018", 
+        "subject_id": "0051018"
     }, 
     {
         "check_masks": [
@@ -3597,7 +3646,8 @@
             "ctx-rh-supramarginal": 1.7696290000000001, 
             "ctx-rh-transversetemporal": 1.249162
         }, 
-        "name": "NYU_0051019"
+        "name": "NYU_0051019", 
+        "subject_id": "0051019"
     }, 
     {
         "check_masks": [
@@ -3669,7 +3719,8 @@
             "ctx-rh-supramarginal": 1.421132, 
             "ctx-rh-transversetemporal": 1.2525700000000002
         }, 
-        "name": "NYU_0051020"
+        "name": "NYU_0051020", 
+        "subject_id": "0051020"
     }, 
     {
         "check_masks": [
@@ -3741,7 +3792,8 @@
             "ctx-rh-supramarginal": 1.4853180000000001, 
             "ctx-rh-transversetemporal": 1.142527
         }, 
-        "name": "NYU_0051021"
+        "name": "NYU_0051021", 
+        "subject_id": "0051021"
     }, 
     {
         "check_masks": [
@@ -3813,7 +3865,8 @@
             "ctx-rh-supramarginal": 2.073999, 
             "ctx-rh-transversetemporal": 1.548408
         }, 
-        "name": "NYU_0051023"
+        "name": "NYU_0051023", 
+        "subject_id": "0051023"
     }, 
     {
         "check_masks": [
@@ -3885,7 +3938,8 @@
             "ctx-rh-supramarginal": 2.0422119999999997, 
             "ctx-rh-transversetemporal": 1.6764459999999999
         }, 
-        "name": "NYU_0051024"
+        "name": "NYU_0051024", 
+        "subject_id": "0051024"
     }, 
     {
         "check_masks": [
@@ -3957,7 +4011,8 @@
             "ctx-rh-supramarginal": 1.924693, 
             "ctx-rh-transversetemporal": 2.080261
         }, 
-        "name": "NYU_0051025"
+        "name": "NYU_0051025", 
+        "subject_id": "0051025"
     }, 
     {
         "check_masks": [
@@ -4029,7 +4084,8 @@
             "ctx-rh-supramarginal": 2.194045, 
             "ctx-rh-transversetemporal": 1.8670099999999998
         }, 
-        "name": "NYU_0051026"
+        "name": "NYU_0051026", 
+        "subject_id": "0051026"
     }, 
     {
         "check_masks": [
@@ -4101,7 +4157,8 @@
             "ctx-rh-supramarginal": 1.488695, 
             "ctx-rh-transversetemporal": 1.6912779999999998
         }, 
-        "name": "NYU_0051027"
+        "name": "NYU_0051027", 
+        "subject_id": "0051027"
     }, 
     {
         "check_masks": [
@@ -4173,7 +4230,8 @@
             "ctx-rh-supramarginal": 1.551666, 
             "ctx-rh-transversetemporal": 1.549379
         }, 
-        "name": "NYU_0051028"
+        "name": "NYU_0051028", 
+        "subject_id": "0051028"
     }, 
     {
         "check_masks": [
@@ -4245,7 +4303,8 @@
             "ctx-rh-supramarginal": 1.8665939999999999, 
             "ctx-rh-transversetemporal": 1.7850419999999998
         }, 
-        "name": "NYU_0051029"
+        "name": "NYU_0051029", 
+        "subject_id": "0051029"
     }, 
     {
         "check_masks": [
@@ -4317,7 +4376,8 @@
             "ctx-rh-supramarginal": 2.031086, 
             "ctx-rh-transversetemporal": 1.451514
         }, 
-        "name": "NYU_0051030"
+        "name": "NYU_0051030", 
+        "subject_id": "0051030"
     }, 
     {
         "check_masks": [
@@ -4389,7 +4449,8 @@
             "ctx-rh-supramarginal": 2.655765, 
             "ctx-rh-transversetemporal": 1.410901
         }, 
-        "name": "NYU_0051032"
+        "name": "NYU_0051032", 
+        "subject_id": "0051032"
     }, 
     {
         "check_masks": [
@@ -4461,7 +4522,8 @@
             "ctx-rh-supramarginal": 2.1119939999999997, 
             "ctx-rh-transversetemporal": 1.295489
         }, 
-        "name": "NYU_0051033"
+        "name": "NYU_0051033", 
+        "subject_id": "0051033"
     }, 
     {
         "check_masks": [
@@ -4533,7 +4595,8 @@
             "ctx-rh-supramarginal": 2.270892, 
             "ctx-rh-transversetemporal": 1.3902459999999999
         }, 
-        "name": "NYU_0051034"
+        "name": "NYU_0051034", 
+        "subject_id": "0051034"
     }, 
     {
         "check_masks": [
@@ -4605,7 +4668,8 @@
             "ctx-rh-supramarginal": 2.171681, 
             "ctx-rh-transversetemporal": 1.8005
         }, 
-        "name": "NYU_0051035"
+        "name": "NYU_0051035", 
+        "subject_id": "0051035"
     }, 
     {
         "check_masks": [
@@ -4677,7 +4741,8 @@
             "ctx-rh-supramarginal": 2.439253, 
             "ctx-rh-transversetemporal": 1.7828130000000002
         }, 
-        "name": "NYU_0051036"
+        "name": "NYU_0051036", 
+        "subject_id": "0051036"
     }, 
     {
         "check_masks": [
@@ -4749,7 +4814,8 @@
             "ctx-rh-supramarginal": 2.38568, 
             "ctx-rh-transversetemporal": 1.8934279999999999
         }, 
-        "name": "NYU_0051038"
+        "name": "NYU_0051038", 
+        "subject_id": "0051038"
     }, 
     {
         "check_masks": [
@@ -4821,7 +4887,8 @@
             "ctx-rh-supramarginal": 2.215948, 
             "ctx-rh-transversetemporal": 2.030277
         }, 
-        "name": "NYU_0051039"
+        "name": "NYU_0051039", 
+        "subject_id": "0051039"
     }, 
     {
         "check_masks": [
@@ -4893,7 +4960,8 @@
             "ctx-rh-supramarginal": 2.041121, 
             "ctx-rh-transversetemporal": 1.774393
         }, 
-        "name": "NYU_0051040"
+        "name": "NYU_0051040", 
+        "subject_id": "0051040"
     }, 
     {
         "check_masks": [
@@ -4965,7 +5033,8 @@
             "ctx-rh-supramarginal": 2.05801, 
             "ctx-rh-transversetemporal": 1.0245799999999998
         }, 
-        "name": "NYU_0051041"
+        "name": "NYU_0051041", 
+        "subject_id": "0051041"
     }, 
     {
         "check_masks": [
@@ -5037,7 +5106,8 @@
             "ctx-rh-supramarginal": 1.421827, 
             "ctx-rh-transversetemporal": 1.439238
         }, 
-        "name": "NYU_0051042"
+        "name": "NYU_0051042", 
+        "subject_id": "0051042"
     }, 
     {
         "check_masks": [
@@ -5109,7 +5179,8 @@
             "ctx-rh-supramarginal": 2.063774, 
             "ctx-rh-transversetemporal": 1.438667
         }, 
-        "name": "NYU_0051044"
+        "name": "NYU_0051044", 
+        "subject_id": "0051044"
     }, 
     {
         "check_masks": [
@@ -5181,7 +5252,8 @@
             "ctx-rh-supramarginal": 1.9903119999999999, 
             "ctx-rh-transversetemporal": 1.834325
         }, 
-        "name": "NYU_0051045"
+        "name": "NYU_0051045", 
+        "subject_id": "0051045"
     }, 
     {
         "check_masks": [
@@ -5253,7 +5325,8 @@
             "ctx-rh-supramarginal": 1.9011509999999998, 
             "ctx-rh-transversetemporal": 1.608028
         }, 
-        "name": "NYU_0051046"
+        "name": "NYU_0051046", 
+        "subject_id": "0051046"
     }, 
     {
         "check_masks": [
@@ -5325,7 +5398,8 @@
             "ctx-rh-supramarginal": 2.475602, 
             "ctx-rh-transversetemporal": 1.695269
         }, 
-        "name": "NYU_0051047"
+        "name": "NYU_0051047", 
+        "subject_id": "0051047"
     }, 
     {
         "check_masks": [
@@ -5397,7 +5471,8 @@
             "ctx-rh-supramarginal": 2.3860490000000003, 
             "ctx-rh-transversetemporal": 1.547472
         }, 
-        "name": "NYU_0051048"
+        "name": "NYU_0051048", 
+        "subject_id": "0051048"
     }, 
     {
         "check_masks": [
@@ -5469,7 +5544,8 @@
             "ctx-rh-supramarginal": 2.350926, 
             "ctx-rh-transversetemporal": 1.620076
         }, 
-        "name": "NYU_0051049"
+        "name": "NYU_0051049", 
+        "subject_id": "0051049"
     }, 
     {
         "check_masks": [
@@ -5541,7 +5617,8 @@
             "ctx-rh-supramarginal": 2.162881, 
             "ctx-rh-transversetemporal": 1.590941
         }, 
-        "name": "NYU_0051050"
+        "name": "NYU_0051050", 
+        "subject_id": "0051050"
     }, 
     {
         "check_masks": [
@@ -5613,7 +5690,8 @@
             "ctx-rh-supramarginal": 2.26126, 
             "ctx-rh-transversetemporal": 1.5526719999999998
         }, 
-        "name": "NYU_0051051"
+        "name": "NYU_0051051", 
+        "subject_id": "0051051"
     }, 
     {
         "check_masks": [
@@ -5685,7 +5763,8 @@
             "ctx-rh-supramarginal": 2.47795, 
             "ctx-rh-transversetemporal": 1.395946
         }, 
-        "name": "NYU_0051052"
+        "name": "NYU_0051052", 
+        "subject_id": "0051052"
     }, 
     {
         "check_masks": [
@@ -5757,7 +5836,8 @@
             "ctx-rh-supramarginal": 2.003834, 
             "ctx-rh-transversetemporal": 1.6464159999999999
         }, 
-        "name": "NYU_0051053"
+        "name": "NYU_0051053", 
+        "subject_id": "0051053"
     }, 
     {
         "check_masks": [
@@ -5829,7 +5909,8 @@
             "ctx-rh-supramarginal": 2.426483, 
             "ctx-rh-transversetemporal": 2.084676
         }, 
-        "name": "NYU_0051054"
+        "name": "NYU_0051054", 
+        "subject_id": "0051054"
     }, 
     {
         "check_masks": [
@@ -5901,7 +5982,8 @@
             "ctx-rh-supramarginal": 1.8331549999999999, 
             "ctx-rh-transversetemporal": 1.5316299999999998
         }, 
-        "name": "NYU_0051055"
+        "name": "NYU_0051055", 
+        "subject_id": "0051055"
     }, 
     {
         "check_masks": [
@@ -5973,7 +6055,8 @@
             "ctx-rh-supramarginal": 2.30051, 
             "ctx-rh-transversetemporal": 1.894278
         }, 
-        "name": "NYU_0051056"
+        "name": "NYU_0051056", 
+        "subject_id": "0051056"
     }, 
     {
         "check_masks": [
@@ -6045,7 +6128,8 @@
             "ctx-rh-supramarginal": 1.9889119999999998, 
             "ctx-rh-transversetemporal": 1.803135
         }, 
-        "name": "NYU_0051057"
+        "name": "NYU_0051057", 
+        "subject_id": "0051057"
     }, 
     {
         "check_masks": [
@@ -6117,7 +6201,8 @@
             "ctx-rh-supramarginal": 2.208189, 
             "ctx-rh-transversetemporal": 1.6077350000000001
         }, 
-        "name": "NYU_0051058"
+        "name": "NYU_0051058", 
+        "subject_id": "0051058"
     }, 
     {
         "check_masks": [
@@ -6189,7 +6274,8 @@
             "ctx-rh-supramarginal": 1.92108, 
             "ctx-rh-transversetemporal": 1.725455
         }, 
-        "name": "NYU_0051059"
+        "name": "NYU_0051059", 
+        "subject_id": "0051059"
     }, 
     {
         "check_masks": [
@@ -6261,7 +6347,8 @@
             "ctx-rh-supramarginal": 1.7070009999999998, 
             "ctx-rh-transversetemporal": 1.548481
         }, 
-        "name": "NYU_0051060"
+        "name": "NYU_0051060", 
+        "subject_id": "0051060"
     }, 
     {
         "check_masks": [
@@ -6333,7 +6420,8 @@
             "ctx-rh-supramarginal": 1.867945, 
             "ctx-rh-transversetemporal": 1.567726
         }, 
-        "name": "NYU_0051061"
+        "name": "NYU_0051061", 
+        "subject_id": "0051061"
     }, 
     {
         "check_masks": [
@@ -6405,7 +6493,8 @@
             "ctx-rh-supramarginal": 1.7894560000000002, 
             "ctx-rh-transversetemporal": 1.243534
         }, 
-        "name": "NYU_0051062"
+        "name": "NYU_0051062", 
+        "subject_id": "0051062"
     }, 
     {
         "check_masks": [
@@ -6477,7 +6566,8 @@
             "ctx-rh-supramarginal": 2.264374, 
             "ctx-rh-transversetemporal": 1.5959219999999998
         }, 
-        "name": "NYU_0051063"
+        "name": "NYU_0051063", 
+        "subject_id": "0051063"
     }, 
     {
         "check_masks": [
@@ -6549,7 +6639,8 @@
             "ctx-rh-supramarginal": 2.306781, 
             "ctx-rh-transversetemporal": 1.4479899999999999
         }, 
-        "name": "NYU_0051064"
+        "name": "NYU_0051064", 
+        "subject_id": "0051064"
     }, 
     {
         "check_masks": [
@@ -6621,7 +6712,8 @@
             "ctx-rh-supramarginal": 1.852093, 
             "ctx-rh-transversetemporal": 1.3106209999999998
         }, 
-        "name": "NYU_0051065"
+        "name": "NYU_0051065", 
+        "subject_id": "0051065"
     }, 
     {
         "check_masks": [
@@ -6693,7 +6785,8 @@
             "ctx-rh-supramarginal": 2.0279540000000003, 
             "ctx-rh-transversetemporal": 1.470802
         }, 
-        "name": "NYU_0051066"
+        "name": "NYU_0051066", 
+        "subject_id": "0051066"
     }, 
     {
         "check_masks": [
@@ -6765,7 +6858,8 @@
             "ctx-rh-supramarginal": 1.637203, 
             "ctx-rh-transversetemporal": 1.641762
         }, 
-        "name": "NYU_0051067"
+        "name": "NYU_0051067", 
+        "subject_id": "0051067"
     }, 
     {
         "check_masks": [
@@ -6837,7 +6931,8 @@
             "ctx-rh-supramarginal": 1.759881, 
             "ctx-rh-transversetemporal": 1.242119
         }, 
-        "name": "NYU_0051068"
+        "name": "NYU_0051068", 
+        "subject_id": "0051068"
     }, 
     {
         "check_masks": [
@@ -6909,7 +7004,8 @@
             "ctx-rh-supramarginal": 1.329051, 
             "ctx-rh-transversetemporal": 1.166197
         }, 
-        "name": "NYU_0051069"
+        "name": "NYU_0051069", 
+        "subject_id": "0051069"
     }, 
     {
         "check_masks": [
@@ -6981,7 +7077,8 @@
             "ctx-rh-supramarginal": 1.426423, 
             "ctx-rh-transversetemporal": 1.522047
         }, 
-        "name": "NYU_0051070"
+        "name": "NYU_0051070", 
+        "subject_id": "0051070"
     }, 
     {
         "check_masks": [
@@ -7053,7 +7150,8 @@
             "ctx-rh-supramarginal": 1.959831, 
             "ctx-rh-transversetemporal": 1.225481
         }, 
-        "name": "NYU_0051071"
+        "name": "NYU_0051071", 
+        "subject_id": "0051071"
     }, 
     {
         "check_masks": [
@@ -7125,7 +7223,8 @@
             "ctx-rh-supramarginal": 1.559332, 
             "ctx-rh-transversetemporal": 1.390491
         }, 
-        "name": "NYU_0051072"
+        "name": "NYU_0051072", 
+        "subject_id": "0051072"
     }, 
     {
         "check_masks": [
@@ -7197,7 +7296,8 @@
             "ctx-rh-supramarginal": 2.379464, 
             "ctx-rh-transversetemporal": 1.8844330000000002
         }, 
-        "name": "NYU_0051073"
+        "name": "NYU_0051073", 
+        "subject_id": "0051073"
     }, 
     {
         "check_masks": [
@@ -7269,7 +7369,8 @@
             "ctx-rh-supramarginal": 2.043304, 
             "ctx-rh-transversetemporal": 1.9356060000000002
         }, 
-        "name": "NYU_0051074"
+        "name": "NYU_0051074", 
+        "subject_id": "0051074"
     }, 
     {
         "check_masks": [
@@ -7341,7 +7442,8 @@
             "ctx-rh-supramarginal": 2.110856, 
             "ctx-rh-transversetemporal": 1.985553
         }, 
-        "name": "NYU_0051075"
+        "name": "NYU_0051075", 
+        "subject_id": "0051075"
     }, 
     {
         "check_masks": [
@@ -7413,7 +7515,8 @@
             "ctx-rh-supramarginal": 1.8704560000000001, 
             "ctx-rh-transversetemporal": 1.6379569999999999
         }, 
-        "name": "NYU_0051076"
+        "name": "NYU_0051076", 
+        "subject_id": "0051076"
     }, 
     {
         "check_masks": [
@@ -7485,7 +7588,8 @@
             "ctx-rh-supramarginal": 2.208456, 
             "ctx-rh-transversetemporal": 1.8736
         }, 
-        "name": "NYU_0051077"
+        "name": "NYU_0051077", 
+        "subject_id": "0051077"
     }, 
     {
         "check_masks": [
@@ -7557,7 +7661,8 @@
             "ctx-rh-supramarginal": 2.549824, 
             "ctx-rh-transversetemporal": 2.379616
         }, 
-        "name": "NYU_0051078"
+        "name": "NYU_0051078", 
+        "subject_id": "0051078"
     }, 
     {
         "check_masks": [
@@ -7629,7 +7734,8 @@
             "ctx-rh-supramarginal": 1.723396, 
             "ctx-rh-transversetemporal": 1.724202
         }, 
-        "name": "NYU_0051079"
+        "name": "NYU_0051079", 
+        "subject_id": "0051079"
     }, 
     {
         "check_masks": [
@@ -7701,7 +7807,8 @@
             "ctx-rh-supramarginal": 2.44015, 
             "ctx-rh-transversetemporal": 1.573174
         }, 
-        "name": "NYU_0051080"
+        "name": "NYU_0051080", 
+        "subject_id": "0051080"
     }, 
     {
         "check_masks": [
@@ -7773,7 +7880,8 @@
             "ctx-rh-supramarginal": 2.288669, 
             "ctx-rh-transversetemporal": 1.8505919999999998
         }, 
-        "name": "NYU_0051081"
+        "name": "NYU_0051081", 
+        "subject_id": "0051081"
     }, 
     {
         "check_masks": [
@@ -7845,7 +7953,8 @@
             "ctx-rh-supramarginal": 2.19928, 
             "ctx-rh-transversetemporal": 1.76787
         }, 
-        "name": "NYU_0051082"
+        "name": "NYU_0051082", 
+        "subject_id": "0051082"
     }, 
     {
         "check_masks": [
@@ -7917,7 +8026,8 @@
             "ctx-rh-supramarginal": 2.104263, 
             "ctx-rh-transversetemporal": 1.399194
         }, 
-        "name": "NYU_0051083"
+        "name": "NYU_0051083", 
+        "subject_id": "0051083"
     }, 
     {
         "check_masks": [
@@ -7989,7 +8099,8 @@
             "ctx-rh-supramarginal": 1.9945439999999999, 
             "ctx-rh-transversetemporal": 1.3593879999999998
         }, 
-        "name": "NYU_0051084"
+        "name": "NYU_0051084", 
+        "subject_id": "0051084"
     }, 
     {
         "check_masks": [
@@ -8061,7 +8172,8 @@
             "ctx-rh-supramarginal": 2.266122, 
             "ctx-rh-transversetemporal": 1.7571299999999999
         }, 
-        "name": "NYU_0051085"
+        "name": "NYU_0051085", 
+        "subject_id": "0051085"
     }, 
     {
         "check_masks": [
@@ -8133,7 +8245,8 @@
             "ctx-rh-supramarginal": 2.062193, 
             "ctx-rh-transversetemporal": 2.2009279999999998
         }, 
-        "name": "NYU_0051086"
+        "name": "NYU_0051086", 
+        "subject_id": "0051086"
     }, 
     {
         "check_masks": [
@@ -8205,7 +8318,8 @@
             "ctx-rh-supramarginal": 2.2811220000000003, 
             "ctx-rh-transversetemporal": 1.296108
         }, 
-        "name": "NYU_0051087"
+        "name": "NYU_0051087", 
+        "subject_id": "0051087"
     }, 
     {
         "check_masks": [
@@ -8277,7 +8391,8 @@
             "ctx-rh-supramarginal": 2.209098, 
             "ctx-rh-transversetemporal": 1.207242
         }, 
-        "name": "NYU_0051088"
+        "name": "NYU_0051088", 
+        "subject_id": "0051088"
     }, 
     {
         "check_masks": [
@@ -8349,7 +8464,8 @@
             "ctx-rh-supramarginal": 2.0119759999999998, 
             "ctx-rh-transversetemporal": 1.4363
         }, 
-        "name": "NYU_0051089"
+        "name": "NYU_0051089", 
+        "subject_id": "0051089"
     }, 
     {
         "check_masks": [
@@ -8421,7 +8537,8 @@
             "ctx-rh-supramarginal": 2.011741, 
             "ctx-rh-transversetemporal": 1.8960380000000001
         }, 
-        "name": "NYU_0051090"
+        "name": "NYU_0051090", 
+        "subject_id": "0051090"
     }, 
     {
         "check_masks": [
@@ -8493,7 +8610,8 @@
             "ctx-rh-supramarginal": 2.0545720000000003, 
             "ctx-rh-transversetemporal": 1.471782
         }, 
-        "name": "NYU_0051091"
+        "name": "NYU_0051091", 
+        "subject_id": "0051091"
     }, 
     {
         "check_masks": [
@@ -8565,7 +8683,8 @@
             "ctx-rh-supramarginal": 1.7206650000000001, 
             "ctx-rh-transversetemporal": 1.7912860000000002
         }, 
-        "name": "NYU_0051093"
+        "name": "NYU_0051093", 
+        "subject_id": "0051093"
     }, 
     {
         "check_masks": [
@@ -8637,7 +8756,8 @@
             "ctx-rh-supramarginal": 2.620327, 
             "ctx-rh-transversetemporal": 1.360509
         }, 
-        "name": "NYU_0051094"
+        "name": "NYU_0051094", 
+        "subject_id": "0051094"
     }, 
     {
         "check_masks": [
@@ -8709,7 +8829,8 @@
             "ctx-rh-supramarginal": 1.959324, 
             "ctx-rh-transversetemporal": 1.662922
         }, 
-        "name": "NYU_0051095"
+        "name": "NYU_0051095", 
+        "subject_id": "0051095"
     }, 
     {
         "check_masks": [
@@ -8781,7 +8902,8 @@
             "ctx-rh-supramarginal": 2.461738, 
             "ctx-rh-transversetemporal": 2.023632
         }, 
-        "name": "NYU_0051096"
+        "name": "NYU_0051096", 
+        "subject_id": "0051096"
     }, 
     {
         "check_masks": [
@@ -8853,7 +8975,8 @@
             "ctx-rh-supramarginal": 2.245922, 
             "ctx-rh-transversetemporal": 1.6188069999999999
         }, 
-        "name": "NYU_0051097"
+        "name": "NYU_0051097", 
+        "subject_id": "0051097"
     }, 
     {
         "check_masks": [
@@ -8925,7 +9048,8 @@
             "ctx-rh-supramarginal": 2.247752, 
             "ctx-rh-transversetemporal": 2.070609
         }, 
-        "name": "NYU_0051098"
+        "name": "NYU_0051098", 
+        "subject_id": "0051098"
     }, 
     {
         "check_masks": [
@@ -8997,7 +9121,8 @@
             "ctx-rh-supramarginal": 1.9606689999999998, 
             "ctx-rh-transversetemporal": 1.538953
         }, 
-        "name": "NYU_0051099"
+        "name": "NYU_0051099", 
+        "subject_id": "0051099"
     }, 
     {
         "check_masks": [
@@ -9069,7 +9194,8 @@
             "ctx-rh-supramarginal": 1.9343279999999998, 
             "ctx-rh-transversetemporal": 1.471861
         }, 
-        "name": "NYU_0051100"
+        "name": "NYU_0051100", 
+        "subject_id": "0051100"
     }, 
     {
         "check_masks": [
@@ -9141,7 +9267,8 @@
             "ctx-rh-supramarginal": 2.186957, 
             "ctx-rh-transversetemporal": 1.445007
         }, 
-        "name": "NYU_0051101"
+        "name": "NYU_0051101", 
+        "subject_id": "0051101"
     }, 
     {
         "check_masks": [
@@ -9213,7 +9340,8 @@
             "ctx-rh-supramarginal": 2.3442380000000003, 
             "ctx-rh-transversetemporal": 1.554041
         }, 
-        "name": "NYU_0051102"
+        "name": "NYU_0051102", 
+        "subject_id": "0051102"
     }, 
     {
         "check_masks": [
@@ -9285,7 +9413,8 @@
             "ctx-rh-supramarginal": 2.1639180000000002, 
             "ctx-rh-transversetemporal": 2.135636
         }, 
-        "name": "NYU_0051103"
+        "name": "NYU_0051103", 
+        "subject_id": "0051103"
     }, 
     {
         "check_masks": [
@@ -9357,7 +9486,8 @@
             "ctx-rh-supramarginal": 1.9695509999999998, 
             "ctx-rh-transversetemporal": 1.65277
         }, 
-        "name": "NYU_0051104"
+        "name": "NYU_0051104", 
+        "subject_id": "0051104"
     }, 
     {
         "check_masks": [
@@ -9429,7 +9559,8 @@
             "ctx-rh-supramarginal": 1.8888900000000002, 
             "ctx-rh-transversetemporal": 1.666379
         }, 
-        "name": "NYU_0051105"
+        "name": "NYU_0051105", 
+        "subject_id": "0051105"
     }, 
     {
         "check_masks": [
@@ -9501,7 +9632,8 @@
             "ctx-rh-supramarginal": 2.0729740000000003, 
             "ctx-rh-transversetemporal": 1.979998
         }, 
-        "name": "NYU_0051106"
+        "name": "NYU_0051106", 
+        "subject_id": "0051106"
     }, 
     {
         "check_masks": [
@@ -9573,7 +9705,8 @@
             "ctx-rh-supramarginal": 1.9470619999999998, 
             "ctx-rh-transversetemporal": 1.892255
         }, 
-        "name": "NYU_0051107"
+        "name": "NYU_0051107", 
+        "subject_id": "0051107"
     }, 
     {
         "check_masks": [
@@ -9645,7 +9778,8 @@
             "ctx-rh-supramarginal": 1.605065, 
             "ctx-rh-transversetemporal": 0.98426
         }, 
-        "name": "NYU_0051109"
+        "name": "NYU_0051109", 
+        "subject_id": "0051109"
     }, 
     {
         "check_masks": [
@@ -9717,7 +9851,8 @@
             "ctx-rh-supramarginal": 2.308664, 
             "ctx-rh-transversetemporal": 1.8171970000000002
         }, 
-        "name": "NYU_0051110"
+        "name": "NYU_0051110", 
+        "subject_id": "0051110"
     }, 
     {
         "check_masks": [
@@ -9789,7 +9924,8 @@
             "ctx-rh-supramarginal": 2.007893, 
             "ctx-rh-transversetemporal": 1.636554
         }, 
-        "name": "NYU_0051111"
+        "name": "NYU_0051111", 
+        "subject_id": "0051111"
     }, 
     {
         "check_masks": [
@@ -9861,7 +9997,8 @@
             "ctx-rh-supramarginal": 2.0515630000000002, 
             "ctx-rh-transversetemporal": 1.666714
         }, 
-        "name": "NYU_0051112"
+        "name": "NYU_0051112", 
+        "subject_id": "0051112"
     }, 
     {
         "check_masks": [
@@ -9933,7 +10070,8 @@
             "ctx-rh-supramarginal": 1.778419, 
             "ctx-rh-transversetemporal": 1.722825
         }, 
-        "name": "NYU_0051113"
+        "name": "NYU_0051113", 
+        "subject_id": "0051113"
     }, 
     {
         "check_masks": [
@@ -10005,7 +10143,8 @@
             "ctx-rh-supramarginal": 2.129308, 
             "ctx-rh-transversetemporal": 1.526246
         }, 
-        "name": "NYU_0051114"
+        "name": "NYU_0051114", 
+        "subject_id": "0051114"
     }, 
     {
         "check_masks": [
@@ -10077,7 +10216,8 @@
             "ctx-rh-supramarginal": 1.761582, 
             "ctx-rh-transversetemporal": 1.864696
         }, 
-        "name": "NYU_0051116"
+        "name": "NYU_0051116", 
+        "subject_id": "0051116"
     }, 
     {
         "check_masks": [
@@ -10149,7 +10289,8 @@
             "ctx-rh-supramarginal": 1.766166, 
             "ctx-rh-transversetemporal": 1.202742
         }, 
-        "name": "NYU_0051117"
+        "name": "NYU_0051117", 
+        "subject_id": "0051117"
     }, 
     {
         "check_masks": [
@@ -10221,7 +10362,8 @@
             "ctx-rh-supramarginal": 1.5944989999999999, 
             "ctx-rh-transversetemporal": 1.326958
         }, 
-        "name": "NYU_0051118"
+        "name": "NYU_0051118", 
+        "subject_id": "0051118"
     }, 
     {
         "check_masks": [
@@ -10293,7 +10435,8 @@
             "ctx-rh-supramarginal": 2.2895, 
             "ctx-rh-transversetemporal": 1.745557
         }, 
-        "name": "NYU_0051121"
+        "name": "NYU_0051121", 
+        "subject_id": "0051121"
     }, 
     {
         "check_masks": [
@@ -10365,7 +10508,8 @@
             "ctx-rh-supramarginal": 1.799728, 
             "ctx-rh-transversetemporal": 1.543156
         }, 
-        "name": "NYU_0051122"
+        "name": "NYU_0051122", 
+        "subject_id": "0051122"
     }, 
     {
         "check_masks": [
@@ -10437,7 +10581,8 @@
             "ctx-rh-supramarginal": 2.381034, 
             "ctx-rh-transversetemporal": 1.622155
         }, 
-        "name": "NYU_0051123"
+        "name": "NYU_0051123", 
+        "subject_id": "0051123"
     }, 
     {
         "check_masks": [
@@ -10509,7 +10654,8 @@
             "ctx-rh-supramarginal": 2.011674, 
             "ctx-rh-transversetemporal": 1.331097
         }, 
-        "name": "NYU_0051124"
+        "name": "NYU_0051124", 
+        "subject_id": "0051124"
     }, 
     {
         "check_masks": [
@@ -10581,7 +10727,8 @@
             "ctx-rh-supramarginal": 1.850136, 
             "ctx-rh-transversetemporal": 1.383133
         }, 
-        "name": "NYU_0051126"
+        "name": "NYU_0051126", 
+        "subject_id": "0051126"
     }, 
     {
         "check_masks": [
@@ -10653,7 +10800,8 @@
             "ctx-rh-supramarginal": 1.923972, 
             "ctx-rh-transversetemporal": 1.9779259999999999
         }, 
-        "name": "NYU_0051127"
+        "name": "NYU_0051127", 
+        "subject_id": "0051127"
     }, 
     {
         "check_masks": [
@@ -10725,7 +10873,8 @@
             "ctx-rh-supramarginal": 1.934143, 
             "ctx-rh-transversetemporal": 1.7373310000000002
         }, 
-        "name": "NYU_0051128"
+        "name": "NYU_0051128", 
+        "subject_id": "0051128"
     }, 
     {
         "check_masks": [
@@ -10797,6 +10946,7 @@
             "ctx-rh-supramarginal": 1.7231009999999998, 
             "ctx-rh-transversetemporal": 1.578163
         }, 
-        "name": "NYU_0051129"
+        "name": "NYU_0051129", 
+        "subject_id": "0051129"
     }
 ]

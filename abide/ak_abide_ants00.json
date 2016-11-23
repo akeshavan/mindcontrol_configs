@@ -69,7 +69,8 @@
             "ctx-rh-supramarginal": 1.5658809999999999, 
             "ctx-rh-transversetemporal": 1.833145
         }, 
-        "name": "Pitt_0050003"
+        "name": "Pitt_0050003", 
+        "subject_id": "0050003"
     }, 
     {
         "check_masks": [
@@ -141,7 +142,8 @@
             "ctx-rh-supramarginal": 2.430273, 
             "ctx-rh-transversetemporal": 2.103015
         }, 
-        "name": "Pitt_0050004"
+        "name": "Pitt_0050004", 
+        "subject_id": "0050004"
     }, 
     {
         "check_masks": [
@@ -213,7 +215,8 @@
             "ctx-rh-supramarginal": 1.721139, 
             "ctx-rh-transversetemporal": 1.411481
         }, 
-        "name": "Pitt_0050005"
+        "name": "Pitt_0050005", 
+        "subject_id": "0050005"
     }, 
     {
         "check_masks": [
@@ -285,7 +288,8 @@
             "ctx-rh-supramarginal": 2.531543, 
             "ctx-rh-transversetemporal": 2.043278
         }, 
-        "name": "Pitt_0050006"
+        "name": "Pitt_0050006", 
+        "subject_id": "0050006"
     }, 
     {
         "check_masks": [
@@ -357,7 +361,8 @@
             "ctx-rh-supramarginal": 1.956121, 
             "ctx-rh-transversetemporal": 1.299927
         }, 
-        "name": "Pitt_0050007"
+        "name": "Pitt_0050007", 
+        "subject_id": "0050007"
     }, 
     {
         "check_masks": [
@@ -429,7 +434,8 @@
             "ctx-rh-supramarginal": 1.904094, 
             "ctx-rh-transversetemporal": 1.996089
         }, 
-        "name": "Pitt_0050008"
+        "name": "Pitt_0050008", 
+        "subject_id": "0050008"
     }, 
     {
         "check_masks": [
@@ -501,7 +507,8 @@
             "ctx-rh-supramarginal": 1.8579860000000001, 
             "ctx-rh-transversetemporal": 1.749416
         }, 
-        "name": "Pitt_0050009"
+        "name": "Pitt_0050009", 
+        "subject_id": "0050009"
     }, 
     {
         "check_masks": [
@@ -573,7 +580,8 @@
             "ctx-rh-supramarginal": 1.7586060000000001, 
             "ctx-rh-transversetemporal": 1.449195
         }, 
-        "name": "Pitt_0050010"
+        "name": "Pitt_0050010", 
+        "subject_id": "0050010"
     }, 
     {
         "check_masks": [
@@ -645,7 +653,8 @@
             "ctx-rh-supramarginal": 2.168734, 
             "ctx-rh-transversetemporal": 1.694916
         }, 
-        "name": "Pitt_0050011"
+        "name": "Pitt_0050011", 
+        "subject_id": "0050011"
     }, 
     {
         "check_masks": [
@@ -717,7 +726,8 @@
             "ctx-rh-supramarginal": 2.021693, 
             "ctx-rh-transversetemporal": 1.525291
         }, 
-        "name": "Pitt_0050012"
+        "name": "Pitt_0050012", 
+        "subject_id": "0050012"
     }, 
     {
         "check_masks": [
@@ -789,7 +799,8 @@
             "ctx-rh-supramarginal": 2.279418, 
             "ctx-rh-transversetemporal": 1.397184
         }, 
-        "name": "Pitt_0050013"
+        "name": "Pitt_0050013", 
+        "subject_id": "0050013"
     }, 
     {
         "check_masks": [
@@ -861,7 +872,8 @@
             "ctx-rh-supramarginal": 1.827129, 
             "ctx-rh-transversetemporal": 1.8417279999999998
         }, 
-        "name": "Pitt_0050014"
+        "name": "Pitt_0050014", 
+        "subject_id": "0050014"
     }, 
     {
         "check_masks": [
@@ -933,7 +945,8 @@
             "ctx-rh-supramarginal": 2.005042, 
             "ctx-rh-transversetemporal": 1.870811
         }, 
-        "name": "Pitt_0050015"
+        "name": "Pitt_0050015", 
+        "subject_id": "0050015"
     }, 
     {
         "check_masks": [
@@ -1005,7 +1018,8 @@
             "ctx-rh-supramarginal": 1.95938, 
             "ctx-rh-transversetemporal": 2.087426
         }, 
-        "name": "Pitt_0050016"
+        "name": "Pitt_0050016", 
+        "subject_id": "0050016"
     }, 
     {
         "check_masks": [
@@ -1077,7 +1091,8 @@
             "ctx-rh-supramarginal": 2.0678959999999997, 
             "ctx-rh-transversetemporal": 1.9644150000000002
         }, 
-        "name": "Pitt_0050017"
+        "name": "Pitt_0050017", 
+        "subject_id": "0050017"
     }, 
     {
         "check_masks": [
@@ -1149,7 +1164,8 @@
             "ctx-rh-supramarginal": 1.618272, 
             "ctx-rh-transversetemporal": 1.629891
         }, 
-        "name": "Pitt_0050019"
+        "name": "Pitt_0050019", 
+        "subject_id": "0050019"
     }, 
     {
         "check_masks": [
@@ -1221,7 +1237,8 @@
             "ctx-rh-supramarginal": 1.515782, 
             "ctx-rh-transversetemporal": 1.561718
         }, 
-        "name": "Pitt_0050020"
+        "name": "Pitt_0050020", 
+        "subject_id": "0050020"
     }, 
     {
         "check_masks": [
@@ -1293,7 +1310,8 @@
             "ctx-rh-supramarginal": 2.435228, 
             "ctx-rh-transversetemporal": 1.7471349999999999
         }, 
-        "name": "Pitt_0050022"
+        "name": "Pitt_0050022", 
+        "subject_id": "0050022"
     }, 
     {
         "check_masks": [
@@ -1365,7 +1383,8 @@
             "ctx-rh-supramarginal": 2.309682, 
             "ctx-rh-transversetemporal": 1.881619
         }, 
-        "name": "Pitt_0050023"
+        "name": "Pitt_0050023", 
+        "subject_id": "0050023"
     }, 
     {
         "check_masks": [
@@ -1437,7 +1456,8 @@
             "ctx-rh-supramarginal": 1.962573, 
             "ctx-rh-transversetemporal": 1.540426
         }, 
-        "name": "Pitt_0050024"
+        "name": "Pitt_0050024", 
+        "subject_id": "0050024"
     }, 
     {
         "check_masks": [
@@ -1509,7 +1529,8 @@
             "ctx-rh-supramarginal": 1.8699130000000002, 
             "ctx-rh-transversetemporal": 1.435967
         }, 
-        "name": "Pitt_0050025"
+        "name": "Pitt_0050025", 
+        "subject_id": "0050025"
     }, 
     {
         "check_masks": [
@@ -1581,7 +1602,8 @@
             "ctx-rh-supramarginal": 1.764652, 
             "ctx-rh-transversetemporal": 1.464779
         }, 
-        "name": "Pitt_0050026"
+        "name": "Pitt_0050026", 
+        "subject_id": "0050026"
     }, 
     {
         "check_masks": [
@@ -1653,7 +1675,8 @@
             "ctx-rh-supramarginal": 2.490964, 
             "ctx-rh-transversetemporal": 1.537116
         }, 
-        "name": "Pitt_0050027"
+        "name": "Pitt_0050027", 
+        "subject_id": "0050027"
     }, 
     {
         "check_masks": [
@@ -1725,7 +1748,8 @@
             "ctx-rh-supramarginal": 2.245931, 
             "ctx-rh-transversetemporal": 1.8608770000000001
         }, 
-        "name": "Pitt_0050028"
+        "name": "Pitt_0050028", 
+        "subject_id": "0050028"
     }, 
     {
         "check_masks": [
@@ -1797,7 +1821,8 @@
             "ctx-rh-supramarginal": 2.474575, 
             "ctx-rh-transversetemporal": 2.2343290000000002
         }, 
-        "name": "Pitt_0050029"
+        "name": "Pitt_0050029", 
+        "subject_id": "0050029"
     }, 
     {
         "check_masks": [
@@ -1869,7 +1894,8 @@
             "ctx-rh-supramarginal": 1.9282119999999998, 
             "ctx-rh-transversetemporal": 1.911973
         }, 
-        "name": "Pitt_0050030"
+        "name": "Pitt_0050030", 
+        "subject_id": "0050030"
     }, 
     {
         "check_masks": [
@@ -1941,7 +1967,8 @@
             "ctx-rh-supramarginal": 2.035886, 
             "ctx-rh-transversetemporal": 1.564586
         }, 
-        "name": "Pitt_0050031"
+        "name": "Pitt_0050031", 
+        "subject_id": "0050031"
     }, 
     {
         "check_masks": [
@@ -2013,7 +2040,8 @@
             "ctx-rh-supramarginal": 1.9985549999999999, 
             "ctx-rh-transversetemporal": 1.8046080000000002
         }, 
-        "name": "Pitt_0050032"
+        "name": "Pitt_0050032", 
+        "subject_id": "0050032"
     }, 
     {
         "check_masks": [
@@ -2085,7 +2113,8 @@
             "ctx-rh-supramarginal": 2.145731, 
             "ctx-rh-transversetemporal": 1.557524
         }, 
-        "name": "Pitt_0050033"
+        "name": "Pitt_0050033", 
+        "subject_id": "0050033"
     }, 
     {
         "check_masks": [
@@ -2157,7 +2186,8 @@
             "ctx-rh-supramarginal": 2.25413, 
             "ctx-rh-transversetemporal": 1.467595
         }, 
-        "name": "Pitt_0050034"
+        "name": "Pitt_0050034", 
+        "subject_id": "0050034"
     }, 
     {
         "check_masks": [
@@ -2229,7 +2259,8 @@
             "ctx-rh-supramarginal": 2.2390380000000003, 
             "ctx-rh-transversetemporal": 1.771441
         }, 
-        "name": "Pitt_0050035"
+        "name": "Pitt_0050035", 
+        "subject_id": "0050035"
     }, 
     {
         "check_masks": [
@@ -2301,7 +2332,8 @@
             "ctx-rh-supramarginal": 1.865389, 
             "ctx-rh-transversetemporal": 1.772315
         }, 
-        "name": "Pitt_0050036"
+        "name": "Pitt_0050036", 
+        "subject_id": "0050036"
     }, 
     {
         "check_masks": [
@@ -2373,7 +2405,8 @@
             "ctx-rh-supramarginal": 2.025239, 
             "ctx-rh-transversetemporal": 1.813239
         }, 
-        "name": "Pitt_0050037"
+        "name": "Pitt_0050037", 
+        "subject_id": "0050037"
     }, 
     {
         "check_masks": [
@@ -2445,7 +2478,8 @@
             "ctx-rh-supramarginal": 2.182582, 
             "ctx-rh-transversetemporal": 1.526598
         }, 
-        "name": "Pitt_0050038"
+        "name": "Pitt_0050038", 
+        "subject_id": "0050038"
     }, 
     {
         "check_masks": [
@@ -2517,7 +2551,8 @@
             "ctx-rh-supramarginal": 1.982753, 
             "ctx-rh-transversetemporal": 2.39527
         }, 
-        "name": "Pitt_0050039"
+        "name": "Pitt_0050039", 
+        "subject_id": "0050039"
     }, 
     {
         "check_masks": [
@@ -2589,7 +2624,8 @@
             "ctx-rh-supramarginal": 1.841864, 
             "ctx-rh-transversetemporal": 1.62449
         }, 
-        "name": "Pitt_0050040"
+        "name": "Pitt_0050040", 
+        "subject_id": "0050040"
     }, 
     {
         "check_masks": [
@@ -2661,7 +2697,8 @@
             "ctx-rh-supramarginal": 2.088598, 
             "ctx-rh-transversetemporal": 2.329798
         }, 
-        "name": "Pitt_0050041"
+        "name": "Pitt_0050041", 
+        "subject_id": "0050041"
     }, 
     {
         "check_masks": [
@@ -2733,7 +2770,8 @@
             "ctx-rh-supramarginal": 1.864316, 
             "ctx-rh-transversetemporal": 1.470257
         }, 
-        "name": "Pitt_0050042"
+        "name": "Pitt_0050042", 
+        "subject_id": "0050042"
     }, 
     {
         "check_masks": [
@@ -2805,7 +2843,8 @@
             "ctx-rh-supramarginal": 2.494901, 
             "ctx-rh-transversetemporal": 1.7256529999999999
         }, 
-        "name": "Pitt_0050043"
+        "name": "Pitt_0050043", 
+        "subject_id": "0050043"
     }, 
     {
         "check_masks": [
@@ -2877,7 +2916,8 @@
             "ctx-rh-supramarginal": 1.804096, 
             "ctx-rh-transversetemporal": 1.733297
         }, 
-        "name": "Pitt_0050044"
+        "name": "Pitt_0050044", 
+        "subject_id": "0050044"
     }, 
     {
         "check_masks": [
@@ -2949,7 +2989,8 @@
             "ctx-rh-supramarginal": 1.816572, 
             "ctx-rh-transversetemporal": 1.434318
         }, 
-        "name": "Pitt_0050045"
+        "name": "Pitt_0050045", 
+        "subject_id": "0050045"
     }, 
     {
         "check_masks": [
@@ -3021,7 +3062,8 @@
             "ctx-rh-supramarginal": 1.7921669999999998, 
             "ctx-rh-transversetemporal": 1.8544759999999998
         }, 
-        "name": "Pitt_0050046"
+        "name": "Pitt_0050046", 
+        "subject_id": "0050046"
     }, 
     {
         "check_masks": [
@@ -3093,7 +3135,8 @@
             "ctx-rh-supramarginal": 2.345952, 
             "ctx-rh-transversetemporal": 2.0728299999999997
         }, 
-        "name": "Pitt_0050047"
+        "name": "Pitt_0050047", 
+        "subject_id": "0050047"
     }, 
     {
         "check_masks": [
@@ -3165,7 +3208,8 @@
             "ctx-rh-supramarginal": 2.2678599999999998, 
             "ctx-rh-transversetemporal": 1.761308
         }, 
-        "name": "Pitt_0050048"
+        "name": "Pitt_0050048", 
+        "subject_id": "0050048"
     }, 
     {
         "check_masks": [
@@ -3237,7 +3281,8 @@
             "ctx-rh-supramarginal": 2.335779, 
             "ctx-rh-transversetemporal": 1.5007549999999998
         }, 
-        "name": "Pitt_0050049"
+        "name": "Pitt_0050049", 
+        "subject_id": "0050049"
     }, 
     {
         "check_masks": [
@@ -3309,7 +3354,8 @@
             "ctx-rh-supramarginal": 2.00065, 
             "ctx-rh-transversetemporal": 1.743413
         }, 
-        "name": "Pitt_0050050"
+        "name": "Pitt_0050050", 
+        "subject_id": "0050050"
     }, 
     {
         "check_masks": [
@@ -3381,7 +3427,8 @@
             "ctx-rh-supramarginal": 2.478246, 
             "ctx-rh-transversetemporal": 1.8076029999999998
         }, 
-        "name": "Pitt_0050051"
+        "name": "Pitt_0050051", 
+        "subject_id": "0050051"
     }, 
     {
         "check_masks": [
@@ -3453,7 +3500,8 @@
             "ctx-rh-supramarginal": 1.445894, 
             "ctx-rh-transversetemporal": 1.482194
         }, 
-        "name": "Pitt_0050052"
+        "name": "Pitt_0050052", 
+        "subject_id": "0050052"
     }, 
     {
         "check_masks": [
@@ -3525,7 +3573,8 @@
             "ctx-rh-supramarginal": 2.0238680000000002, 
             "ctx-rh-transversetemporal": 1.439797
         }, 
-        "name": "Pitt_0050053"
+        "name": "Pitt_0050053", 
+        "subject_id": "0050053"
     }, 
     {
         "check_masks": [
@@ -3597,7 +3646,8 @@
             "ctx-rh-supramarginal": 2.294658, 
             "ctx-rh-transversetemporal": 1.7636880000000001
         }, 
-        "name": "Pitt_0050054"
+        "name": "Pitt_0050054", 
+        "subject_id": "0050054"
     }, 
     {
         "check_masks": [
@@ -3669,7 +3719,8 @@
             "ctx-rh-supramarginal": 1.904973, 
             "ctx-rh-transversetemporal": 2.050964
         }, 
-        "name": "Pitt_0050055"
+        "name": "Pitt_0050055", 
+        "subject_id": "0050055"
     }, 
     {
         "check_masks": [
@@ -3741,7 +3792,8 @@
             "ctx-rh-supramarginal": 2.280949, 
             "ctx-rh-transversetemporal": 1.485752
         }, 
-        "name": "Pitt_0050056"
+        "name": "Pitt_0050056", 
+        "subject_id": "0050056"
     }, 
     {
         "check_masks": [
@@ -3813,7 +3865,8 @@
             "ctx-rh-supramarginal": 2.1312029999999997, 
             "ctx-rh-transversetemporal": 1.554974
         }, 
-        "name": "Pitt_0050057"
+        "name": "Pitt_0050057", 
+        "subject_id": "0050057"
     }, 
     {
         "check_masks": [
@@ -3885,7 +3938,8 @@
             "ctx-rh-supramarginal": 1.456542, 
             "ctx-rh-transversetemporal": 1.342811
         }, 
-        "name": "Pitt_0050058"
+        "name": "Pitt_0050058", 
+        "subject_id": "0050058"
     }, 
     {
         "check_masks": [
@@ -3957,7 +4011,8 @@
             "ctx-rh-supramarginal": 1.903627, 
             "ctx-rh-transversetemporal": 1.7538529999999999
         }, 
-        "name": "Pitt_0050059"
+        "name": "Pitt_0050059", 
+        "subject_id": "0050059"
     }, 
     {
         "check_masks": [
@@ -4029,7 +4084,8 @@
             "ctx-rh-supramarginal": 1.8001200000000002, 
             "ctx-rh-transversetemporal": 1.567324
         }, 
-        "name": "Pitt_0050060"
+        "name": "Pitt_0050060", 
+        "subject_id": "0050060"
     }, 
     {
         "check_masks": [
@@ -4101,7 +4157,8 @@
             "ctx-rh-supramarginal": 1.879154, 
             "ctx-rh-transversetemporal": 1.547256
         }, 
-        "name": "Olin_0050102"
+        "name": "Olin_0050102", 
+        "subject_id": "0050102"
     }, 
     {
         "check_masks": [
@@ -4173,7 +4230,8 @@
             "ctx-rh-supramarginal": 2.057408, 
             "ctx-rh-transversetemporal": 1.232723
         }, 
-        "name": "Olin_0050103"
+        "name": "Olin_0050103", 
+        "subject_id": "0050103"
     }, 
     {
         "check_masks": [
@@ -4245,7 +4303,8 @@
             "ctx-rh-supramarginal": 1.8493400000000002, 
             "ctx-rh-transversetemporal": 1.8653520000000001
         }, 
-        "name": "Olin_0050104"
+        "name": "Olin_0050104", 
+        "subject_id": "0050104"
     }, 
     {
         "check_masks": [
@@ -4317,7 +4376,8 @@
             "ctx-rh-supramarginal": 1.661475, 
             "ctx-rh-transversetemporal": 1.858437
         }, 
-        "name": "Olin_0050105"
+        "name": "Olin_0050105", 
+        "subject_id": "0050105"
     }, 
     {
         "check_masks": [
@@ -4389,7 +4449,8 @@
             "ctx-rh-supramarginal": 2.118459, 
             "ctx-rh-transversetemporal": 1.3150549999999999
         }, 
-        "name": "Olin_0050106"
+        "name": "Olin_0050106", 
+        "subject_id": "0050106"
     }, 
     {
         "check_masks": [
@@ -4461,7 +4522,8 @@
             "ctx-rh-supramarginal": 2.049544, 
             "ctx-rh-transversetemporal": 1.590234
         }, 
-        "name": "Olin_0050107"
+        "name": "Olin_0050107", 
+        "subject_id": "0050107"
     }, 
     {
         "check_masks": [
@@ -4533,7 +4595,8 @@
             "ctx-rh-supramarginal": 1.8967450000000001, 
             "ctx-rh-transversetemporal": 1.206343
         }, 
-        "name": "Olin_0050109"
+        "name": "Olin_0050109", 
+        "subject_id": "0050109"
     }, 
     {
         "check_masks": [
@@ -4605,7 +4668,8 @@
             "ctx-rh-supramarginal": 1.684779, 
             "ctx-rh-transversetemporal": 0.508509
         }, 
-        "name": "Olin_0050110"
+        "name": "Olin_0050110", 
+        "subject_id": "0050110"
     }, 
     {
         "check_masks": [
@@ -4677,7 +4741,8 @@
             "ctx-rh-supramarginal": 1.532454, 
             "ctx-rh-transversetemporal": 1.545984
         }, 
-        "name": "Olin_0050111"
+        "name": "Olin_0050111", 
+        "subject_id": "0050111"
     }, 
     {
         "check_masks": [
@@ -4749,7 +4814,8 @@
             "ctx-rh-supramarginal": 1.9376810000000002, 
             "ctx-rh-transversetemporal": 1.853639
         }, 
-        "name": "Olin_0050112"
+        "name": "Olin_0050112", 
+        "subject_id": "0050112"
     }, 
     {
         "check_masks": [
@@ -4821,7 +4887,8 @@
             "ctx-rh-supramarginal": 1.844638, 
             "ctx-rh-transversetemporal": 1.761307
         }, 
-        "name": "Olin_0050113"
+        "name": "Olin_0050113", 
+        "subject_id": "0050113"
     }, 
     {
         "check_masks": [
@@ -4893,7 +4960,8 @@
             "ctx-rh-supramarginal": 1.576474, 
             "ctx-rh-transversetemporal": 1.6838090000000001
         }, 
-        "name": "Olin_0050114"
+        "name": "Olin_0050114", 
+        "subject_id": "0050114"
     }, 
     {
         "check_masks": [
@@ -4965,7 +5033,8 @@
             "ctx-rh-supramarginal": 1.638279, 
             "ctx-rh-transversetemporal": 1.505609
         }, 
-        "name": "Olin_0050115"
+        "name": "Olin_0050115", 
+        "subject_id": "0050115"
     }, 
     {
         "check_masks": [
@@ -5037,7 +5106,8 @@
             "ctx-rh-supramarginal": 1.799869, 
             "ctx-rh-transversetemporal": 1.2754969999999999
         }, 
-        "name": "Olin_0050116"
+        "name": "Olin_0050116", 
+        "subject_id": "0050116"
     }, 
     {
         "check_masks": [
@@ -5109,7 +5179,8 @@
             "ctx-rh-supramarginal": 2.082477, 
             "ctx-rh-transversetemporal": 1.6942689999999998
         }, 
-        "name": "Olin_0050117"
+        "name": "Olin_0050117", 
+        "subject_id": "0050117"
     }, 
     {
         "check_masks": [
@@ -5181,7 +5252,8 @@
             "ctx-rh-supramarginal": 2.478795, 
             "ctx-rh-transversetemporal": 2.243696
         }, 
-        "name": "Olin_0050118"
+        "name": "Olin_0050118", 
+        "subject_id": "0050118"
     }, 
     {
         "check_masks": [
@@ -5253,7 +5325,8 @@
             "ctx-rh-supramarginal": 1.7583919999999997, 
             "ctx-rh-transversetemporal": 1.632355
         }, 
-        "name": "Olin_0050119"
+        "name": "Olin_0050119", 
+        "subject_id": "0050119"
     }, 
     {
         "check_masks": [
@@ -5325,7 +5398,8 @@
             "ctx-rh-supramarginal": 1.697026, 
             "ctx-rh-transversetemporal": 1.4916260000000001
         }, 
-        "name": "Olin_0050120"
+        "name": "Olin_0050120", 
+        "subject_id": "0050120"
     }, 
     {
         "check_masks": [
@@ -5397,7 +5471,8 @@
             "ctx-rh-supramarginal": 1.983343, 
             "ctx-rh-transversetemporal": 2.178696
         }, 
-        "name": "Olin_0050121"
+        "name": "Olin_0050121", 
+        "subject_id": "0050121"
     }, 
     {
         "check_masks": [
@@ -5469,7 +5544,8 @@
             "ctx-rh-supramarginal": 1.8995650000000002, 
             "ctx-rh-transversetemporal": 1.206821
         }, 
-        "name": "Olin_0050122"
+        "name": "Olin_0050122", 
+        "subject_id": "0050122"
     }, 
     {
         "check_masks": [
@@ -5541,7 +5617,8 @@
             "ctx-rh-supramarginal": 1.747871, 
             "ctx-rh-transversetemporal": 1.7288029999999999
         }, 
-        "name": "Olin_0050123"
+        "name": "Olin_0050123", 
+        "subject_id": "0050123"
     }, 
     {
         "check_masks": [
@@ -5613,7 +5690,8 @@
             "ctx-rh-supramarginal": 1.919748, 
             "ctx-rh-transversetemporal": 1.8240419999999997
         }, 
-        "name": "Olin_0050124"
+        "name": "Olin_0050124", 
+        "subject_id": "0050124"
     }, 
     {
         "check_masks": [
@@ -5685,7 +5763,8 @@
             "ctx-rh-supramarginal": 1.5871959999999998, 
             "ctx-rh-transversetemporal": 1.274365
         }, 
-        "name": "Olin_0050125"
+        "name": "Olin_0050125", 
+        "subject_id": "0050125"
     }, 
     {
         "check_masks": [
@@ -5757,7 +5836,8 @@
             "ctx-rh-supramarginal": 1.789539, 
             "ctx-rh-transversetemporal": 0.997318
         }, 
-        "name": "Olin_0050126"
+        "name": "Olin_0050126", 
+        "subject_id": "0050126"
     }, 
     {
         "check_masks": [
@@ -5829,7 +5909,8 @@
             "ctx-rh-supramarginal": 2.091396, 
             "ctx-rh-transversetemporal": 1.627936
         }, 
-        "name": "Olin_0050127"
+        "name": "Olin_0050127", 
+        "subject_id": "0050127"
     }, 
     {
         "check_masks": [
@@ -5901,7 +5982,8 @@
             "ctx-rh-supramarginal": 1.837867, 
             "ctx-rh-transversetemporal": 1.8401459999999998
         }, 
-        "name": "Olin_0050128"
+        "name": "Olin_0050128", 
+        "subject_id": "0050128"
     }, 
     {
         "check_masks": [
@@ -5973,7 +6055,8 @@
             "ctx-rh-supramarginal": 2.411658, 
             "ctx-rh-transversetemporal": 1.525192
         }, 
-        "name": "Olin_0050129"
+        "name": "Olin_0050129", 
+        "subject_id": "0050129"
     }, 
     {
         "check_masks": [
@@ -6045,7 +6128,8 @@
             "ctx-rh-supramarginal": 1.822575, 
             "ctx-rh-transversetemporal": 1.526249
         }, 
-        "name": "Olin_0050130"
+        "name": "Olin_0050130", 
+        "subject_id": "0050130"
     }, 
     {
         "check_masks": [
@@ -6117,7 +6201,8 @@
             "ctx-rh-supramarginal": 1.9175740000000001, 
             "ctx-rh-transversetemporal": 2.2705830000000002
         }, 
-        "name": "Olin_0050131"
+        "name": "Olin_0050131", 
+        "subject_id": "0050131"
     }, 
     {
         "check_masks": [
@@ -6189,7 +6274,8 @@
             "ctx-rh-supramarginal": 1.9463409999999999, 
             "ctx-rh-transversetemporal": 1.915202
         }, 
-        "name": "Olin_0050132"
+        "name": "Olin_0050132", 
+        "subject_id": "0050132"
     }, 
     {
         "check_masks": [
@@ -6261,7 +6347,8 @@
             "ctx-rh-supramarginal": 1.0669440000000001, 
             "ctx-rh-transversetemporal": 0.573202
         }, 
-        "name": "Olin_0050133"
+        "name": "Olin_0050133", 
+        "subject_id": "0050133"
     }, 
     {
         "check_masks": [
@@ -6333,7 +6420,8 @@
             "ctx-rh-supramarginal": 2.01707, 
             "ctx-rh-transversetemporal": 1.594
         }, 
-        "name": "Olin_0050134"
+        "name": "Olin_0050134", 
+        "subject_id": "0050134"
     }, 
     {
         "check_masks": [
@@ -6405,7 +6493,8 @@
             "ctx-rh-supramarginal": 2.31638, 
             "ctx-rh-transversetemporal": 1.602395
         }, 
-        "name": "Olin_0050135"
+        "name": "Olin_0050135", 
+        "subject_id": "0050135"
     }, 
     {
         "check_masks": [
@@ -6477,7 +6566,8 @@
             "ctx-rh-supramarginal": 2.578794, 
             "ctx-rh-transversetemporal": 1.22709
         }, 
-        "name": "Olin_0050136"
+        "name": "Olin_0050136", 
+        "subject_id": "0050136"
     }, 
     {
         "check_masks": [
@@ -6549,7 +6639,8 @@
             "ctx-rh-supramarginal": 2.045532, 
             "ctx-rh-transversetemporal": 1.537793
         }, 
-        "name": "OHSU_0050142"
+        "name": "OHSU_0050142", 
+        "subject_id": "0050142"
     }, 
     {
         "check_masks": [
@@ -6621,7 +6712,8 @@
             "ctx-rh-supramarginal": 2.099919, 
             "ctx-rh-transversetemporal": 1.70137
         }, 
-        "name": "OHSU_0050143"
+        "name": "OHSU_0050143", 
+        "subject_id": "0050143"
     }, 
     {
         "check_masks": [
@@ -6693,7 +6785,8 @@
             "ctx-rh-supramarginal": 2.261083, 
             "ctx-rh-transversetemporal": 1.6726020000000001
         }, 
-        "name": "OHSU_0050144"
+        "name": "OHSU_0050144", 
+        "subject_id": "0050144"
     }, 
     {
         "check_masks": [
@@ -6765,7 +6858,8 @@
             "ctx-rh-supramarginal": 2.3275930000000002, 
             "ctx-rh-transversetemporal": 2.265485
         }, 
-        "name": "OHSU_0050145"
+        "name": "OHSU_0050145", 
+        "subject_id": "0050145"
     }, 
     {
         "check_masks": [
@@ -6837,7 +6931,8 @@
             "ctx-rh-supramarginal": 2.710487, 
             "ctx-rh-transversetemporal": 2.143182
         }, 
-        "name": "OHSU_0050146"
+        "name": "OHSU_0050146", 
+        "subject_id": "0050146"
     }, 
     {
         "check_masks": [
@@ -6909,7 +7004,8 @@
             "ctx-rh-supramarginal": 2.503869, 
             "ctx-rh-transversetemporal": 2.3751439999999997
         }, 
-        "name": "OHSU_0050147"
+        "name": "OHSU_0050147", 
+        "subject_id": "0050147"
     }, 
     {
         "check_masks": [
@@ -6981,7 +7077,8 @@
             "ctx-rh-supramarginal": 2.27122, 
             "ctx-rh-transversetemporal": 1.6088040000000001
         }, 
-        "name": "OHSU_0050148"
+        "name": "OHSU_0050148", 
+        "subject_id": "0050148"
     }, 
     {
         "check_masks": [
@@ -7053,7 +7150,8 @@
             "ctx-rh-supramarginal": 2.334851, 
             "ctx-rh-transversetemporal": 1.746935
         }, 
-        "name": "OHSU_0050149"
+        "name": "OHSU_0050149", 
+        "subject_id": "0050149"
     }, 
     {
         "check_masks": [
@@ -7125,7 +7223,8 @@
             "ctx-rh-supramarginal": 2.513579, 
             "ctx-rh-transversetemporal": 1.807286
         }, 
-        "name": "OHSU_0050150"
+        "name": "OHSU_0050150", 
+        "subject_id": "0050150"
     }, 
     {
         "check_masks": [
@@ -7197,7 +7296,8 @@
             "ctx-rh-supramarginal": 2.35088, 
             "ctx-rh-transversetemporal": 1.930768
         }, 
-        "name": "OHSU_0050152"
+        "name": "OHSU_0050152", 
+        "subject_id": "0050152"
     }, 
     {
         "check_masks": [
@@ -7269,7 +7369,8 @@
             "ctx-rh-supramarginal": 2.2642439999999997, 
             "ctx-rh-transversetemporal": 1.548692
         }, 
-        "name": "OHSU_0050153"
+        "name": "OHSU_0050153", 
+        "subject_id": "0050153"
     }, 
     {
         "check_masks": [
@@ -7341,7 +7442,8 @@
             "ctx-rh-supramarginal": 2.187093, 
             "ctx-rh-transversetemporal": 1.910875
         }, 
-        "name": "OHSU_0050156"
+        "name": "OHSU_0050156", 
+        "subject_id": "0050156"
     }, 
     {
         "check_masks": [
@@ -7413,7 +7515,8 @@
             "ctx-rh-supramarginal": 2.515715, 
             "ctx-rh-transversetemporal": 2.196066
         }, 
-        "name": "OHSU_0050157"
+        "name": "OHSU_0050157", 
+        "subject_id": "0050157"
     }, 
     {
         "check_masks": [
@@ -7485,7 +7588,8 @@
             "ctx-rh-supramarginal": 2.547101, 
             "ctx-rh-transversetemporal": 1.722289
         }, 
-        "name": "OHSU_0050158"
+        "name": "OHSU_0050158", 
+        "subject_id": "0050158"
     }, 
     {
         "check_masks": [
@@ -7557,7 +7661,8 @@
             "ctx-rh-supramarginal": 2.302605, 
             "ctx-rh-transversetemporal": 1.758372
         }, 
-        "name": "OHSU_0050159"
+        "name": "OHSU_0050159", 
+        "subject_id": "0050159"
     }, 
     {
         "check_masks": [
@@ -7629,7 +7734,8 @@
             "ctx-rh-supramarginal": 2.45833, 
             "ctx-rh-transversetemporal": 1.8547099999999999
         }, 
-        "name": "OHSU_0050160"
+        "name": "OHSU_0050160", 
+        "subject_id": "0050160"
     }, 
     {
         "check_masks": [
@@ -7701,7 +7807,8 @@
             "ctx-rh-supramarginal": 2.171107, 
             "ctx-rh-transversetemporal": 1.62398
         }, 
-        "name": "OHSU_0050161"
+        "name": "OHSU_0050161", 
+        "subject_id": "0050161"
     }, 
     {
         "check_masks": [
@@ -7773,7 +7880,8 @@
             "ctx-rh-supramarginal": 2.2702310000000003, 
             "ctx-rh-transversetemporal": 1.6608450000000001
         }, 
-        "name": "OHSU_0050162"
+        "name": "OHSU_0050162", 
+        "subject_id": "0050162"
     }, 
     {
         "check_masks": [
@@ -7845,7 +7953,8 @@
             "ctx-rh-supramarginal": 2.492419, 
             "ctx-rh-transversetemporal": 1.8357419999999998
         }, 
-        "name": "OHSU_0050163"
+        "name": "OHSU_0050163", 
+        "subject_id": "0050163"
     }, 
     {
         "check_masks": [
@@ -7917,7 +8026,8 @@
             "ctx-rh-supramarginal": 2.810861, 
             "ctx-rh-transversetemporal": 1.867529
         }, 
-        "name": "OHSU_0050164"
+        "name": "OHSU_0050164", 
+        "subject_id": "0050164"
     }, 
     {
         "check_masks": [
@@ -7989,7 +8099,8 @@
             "ctx-rh-supramarginal": 1.757755, 
             "ctx-rh-transversetemporal": 1.5315459999999999
         }, 
-        "name": "OHSU_0050166"
+        "name": "OHSU_0050166", 
+        "subject_id": "0050166"
     }, 
     {
         "check_masks": [
@@ -8061,7 +8172,8 @@
             "ctx-rh-supramarginal": 2.349554, 
             "ctx-rh-transversetemporal": 1.7101509999999998
         }, 
-        "name": "OHSU_0050167"
+        "name": "OHSU_0050167", 
+        "subject_id": "0050167"
     }, 
     {
         "check_masks": [
@@ -8133,7 +8245,8 @@
             "ctx-rh-supramarginal": 2.296997, 
             "ctx-rh-transversetemporal": 1.4930430000000001
         }, 
-        "name": "OHSU_0050168"
+        "name": "OHSU_0050168", 
+        "subject_id": "0050168"
     }, 
     {
         "check_masks": [
@@ -8205,7 +8318,8 @@
             "ctx-rh-supramarginal": 2.307022, 
             "ctx-rh-transversetemporal": 2.03702
         }, 
-        "name": "OHSU_0050169"
+        "name": "OHSU_0050169", 
+        "subject_id": "0050169"
     }, 
     {
         "check_masks": [
@@ -8277,7 +8391,8 @@
             "ctx-rh-supramarginal": 2.772417, 
             "ctx-rh-transversetemporal": 1.9594
         }, 
-        "name": "OHSU_0050170"
+        "name": "OHSU_0050170", 
+        "subject_id": "0050170"
     }, 
     {
         "check_masks": [
@@ -8349,7 +8464,8 @@
             "ctx-rh-supramarginal": 2.130059, 
             "ctx-rh-transversetemporal": 2.112176
         }, 
-        "name": "OHSU_0050171"
+        "name": "OHSU_0050171", 
+        "subject_id": "0050171"
     }, 
     {
         "check_masks": [
@@ -8421,7 +8537,8 @@
             "ctx-rh-supramarginal": 1.918549, 
             "ctx-rh-transversetemporal": 1.426161
         }, 
-        "name": "SDSU_0050182"
+        "name": "SDSU_0050182", 
+        "subject_id": "0050182"
     }, 
     {
         "check_masks": [
@@ -8493,7 +8610,8 @@
             "ctx-rh-supramarginal": 2.17072, 
             "ctx-rh-transversetemporal": 1.515012
         }, 
-        "name": "SDSU_0050183"
+        "name": "SDSU_0050183", 
+        "subject_id": "0050183"
     }, 
     {
         "check_masks": [
@@ -8565,7 +8683,8 @@
             "ctx-rh-supramarginal": 1.9588430000000001, 
             "ctx-rh-transversetemporal": 1.8209540000000002
         }, 
-        "name": "SDSU_0050184"
+        "name": "SDSU_0050184", 
+        "subject_id": "0050184"
     }, 
     {
         "check_masks": [
@@ -8637,7 +8756,8 @@
             "ctx-rh-supramarginal": 1.9223700000000001, 
             "ctx-rh-transversetemporal": 0.6905819999999999
         }, 
-        "name": "SDSU_0050185"
+        "name": "SDSU_0050185", 
+        "subject_id": "0050185"
     }, 
     {
         "check_masks": [
@@ -8709,7 +8829,8 @@
             "ctx-rh-supramarginal": 2.373612, 
             "ctx-rh-transversetemporal": 1.186982
         }, 
-        "name": "SDSU_0050186"
+        "name": "SDSU_0050186", 
+        "subject_id": "0050186"
     }, 
     {
         "check_masks": [
@@ -8781,7 +8902,8 @@
             "ctx-rh-supramarginal": 2.166002, 
             "ctx-rh-transversetemporal": 1.4898850000000001
         }, 
-        "name": "SDSU_0050187"
+        "name": "SDSU_0050187", 
+        "subject_id": "0050187"
     }, 
     {
         "check_masks": [
@@ -8853,7 +8975,8 @@
             "ctx-rh-supramarginal": 2.2874529999999997, 
             "ctx-rh-transversetemporal": 1.378552
         }, 
-        "name": "SDSU_0050188"
+        "name": "SDSU_0050188", 
+        "subject_id": "0050188"
     }, 
     {
         "check_masks": [
@@ -8925,7 +9048,8 @@
             "ctx-rh-supramarginal": 2.250547, 
             "ctx-rh-transversetemporal": 1.918484
         }, 
-        "name": "SDSU_0050189"
+        "name": "SDSU_0050189", 
+        "subject_id": "0050189"
     }, 
     {
         "check_masks": [
@@ -8997,7 +9121,8 @@
             "ctx-rh-supramarginal": 1.737714, 
             "ctx-rh-transversetemporal": 1.127084
         }, 
-        "name": "SDSU_0050190"
+        "name": "SDSU_0050190", 
+        "subject_id": "0050190"
     }, 
     {
         "check_masks": [
@@ -9069,7 +9194,8 @@
             "ctx-rh-supramarginal": 2.069842, 
             "ctx-rh-transversetemporal": 1.790107
         }, 
-        "name": "SDSU_0050191"
+        "name": "SDSU_0050191", 
+        "subject_id": "0050191"
     }, 
     {
         "check_masks": [
@@ -9141,7 +9267,8 @@
             "ctx-rh-supramarginal": 1.4068180000000001, 
             "ctx-rh-transversetemporal": 1.006894
         }, 
-        "name": "SDSU_0050192"
+        "name": "SDSU_0050192", 
+        "subject_id": "0050192"
     }, 
     {
         "check_masks": [
@@ -9213,7 +9340,8 @@
             "ctx-rh-supramarginal": 2.455387, 
             "ctx-rh-transversetemporal": 1.7045240000000002
         }, 
-        "name": "SDSU_0050193"
+        "name": "SDSU_0050193", 
+        "subject_id": "0050193"
     }, 
     {
         "check_masks": [
@@ -9285,7 +9413,8 @@
             "ctx-rh-supramarginal": 2.572593, 
             "ctx-rh-transversetemporal": 1.345779
         }, 
-        "name": "SDSU_0050194"
+        "name": "SDSU_0050194", 
+        "subject_id": "0050194"
     }, 
     {
         "check_masks": [
@@ -9357,7 +9486,8 @@
             "ctx-rh-supramarginal": 2.366161, 
             "ctx-rh-transversetemporal": 1.606294
         }, 
-        "name": "SDSU_0050195"
+        "name": "SDSU_0050195", 
+        "subject_id": "0050195"
     }, 
     {
         "check_masks": [
@@ -9429,7 +9559,8 @@
             "ctx-rh-supramarginal": 2.3798169999999996, 
             "ctx-rh-transversetemporal": 2.23963
         }, 
-        "name": "SDSU_0050196"
+        "name": "SDSU_0050196", 
+        "subject_id": "0050196"
     }, 
     {
         "check_masks": [
@@ -9501,7 +9632,8 @@
             "ctx-rh-supramarginal": 2.159339, 
             "ctx-rh-transversetemporal": 0.973685
         }, 
-        "name": "SDSU_0050197"
+        "name": "SDSU_0050197", 
+        "subject_id": "0050197"
     }, 
     {
         "check_masks": [
@@ -9573,7 +9705,8 @@
             "ctx-rh-supramarginal": 1.9259389999999998, 
             "ctx-rh-transversetemporal": 2.3001099999999997
         }, 
-        "name": "SDSU_0050198"
+        "name": "SDSU_0050198", 
+        "subject_id": "0050198"
     }, 
     {
         "check_masks": [
@@ -9645,7 +9778,8 @@
             "ctx-rh-supramarginal": 2.52953, 
             "ctx-rh-transversetemporal": 2.06315
         }, 
-        "name": "SDSU_0050199"
+        "name": "SDSU_0050199", 
+        "subject_id": "0050199"
     }, 
     {
         "check_masks": [
@@ -9717,7 +9851,8 @@
             "ctx-rh-supramarginal": 2.108347, 
             "ctx-rh-transversetemporal": 1.39245
         }, 
-        "name": "SDSU_0050200"
+        "name": "SDSU_0050200", 
+        "subject_id": "0050200"
     }, 
     {
         "check_masks": [
@@ -9789,7 +9924,8 @@
             "ctx-rh-supramarginal": 2.0396389999999998, 
             "ctx-rh-transversetemporal": 1.631856
         }, 
-        "name": "SDSU_0050201"
+        "name": "SDSU_0050201", 
+        "subject_id": "0050201"
     }, 
     {
         "check_masks": [
@@ -9861,7 +9997,8 @@
             "ctx-rh-supramarginal": 2.116717, 
             "ctx-rh-transversetemporal": 1.6722139999999999
         }, 
-        "name": "SDSU_0050202"
+        "name": "SDSU_0050202", 
+        "subject_id": "0050202"
     }, 
     {
         "check_masks": [
@@ -9933,7 +10070,8 @@
             "ctx-rh-supramarginal": 2.5375419999999997, 
             "ctx-rh-transversetemporal": 1.8116580000000002
         }, 
-        "name": "SDSU_0050203"
+        "name": "SDSU_0050203", 
+        "subject_id": "0050203"
     }, 
     {
         "check_masks": [
@@ -10005,7 +10143,8 @@
             "ctx-rh-supramarginal": 2.1965619999999997, 
             "ctx-rh-transversetemporal": 1.346584
         }, 
-        "name": "SDSU_0050204"
+        "name": "SDSU_0050204", 
+        "subject_id": "0050204"
     }, 
     {
         "check_masks": [
@@ -10077,7 +10216,8 @@
             "ctx-rh-supramarginal": 2.4149950000000002, 
             "ctx-rh-transversetemporal": 1.582717
         }, 
-        "name": "SDSU_0050205"
+        "name": "SDSU_0050205", 
+        "subject_id": "0050205"
     }, 
     {
         "check_masks": [
@@ -10149,7 +10289,8 @@
             "ctx-rh-supramarginal": 2.530205, 
             "ctx-rh-transversetemporal": 1.2234120000000002
         }, 
-        "name": "SDSU_0050206"
+        "name": "SDSU_0050206", 
+        "subject_id": "0050206"
     }, 
     {
         "check_masks": [
@@ -10221,7 +10362,8 @@
             "ctx-rh-supramarginal": 2.299332, 
             "ctx-rh-transversetemporal": 1.95058
         }, 
-        "name": "SDSU_0050207"
+        "name": "SDSU_0050207", 
+        "subject_id": "0050207"
     }, 
     {
         "check_masks": [
@@ -10293,7 +10435,8 @@
             "ctx-rh-supramarginal": 2.662928, 
             "ctx-rh-transversetemporal": 1.8925939999999999
         }, 
-        "name": "SDSU_0050208"
+        "name": "SDSU_0050208", 
+        "subject_id": "0050208"
     }, 
     {
         "check_masks": [
@@ -10365,7 +10508,8 @@
             "ctx-rh-supramarginal": 2.3715759999999997, 
             "ctx-rh-transversetemporal": 1.7473419999999997
         }, 
-        "name": "SDSU_0050209"
+        "name": "SDSU_0050209", 
+        "subject_id": "0050209"
     }, 
     {
         "check_masks": [
@@ -10437,7 +10581,8 @@
             "ctx-rh-supramarginal": 2.189205, 
             "ctx-rh-transversetemporal": 1.761898
         }, 
-        "name": "SDSU_0050210"
+        "name": "SDSU_0050210", 
+        "subject_id": "0050210"
     }, 
     {
         "check_masks": [
@@ -10509,7 +10654,8 @@
             "ctx-rh-supramarginal": 1.8317919999999999, 
             "ctx-rh-transversetemporal": 0.642385
         }, 
-        "name": "SDSU_0050211"
+        "name": "SDSU_0050211", 
+        "subject_id": "0050211"
     }, 
     {
         "check_masks": [
@@ -10581,7 +10727,8 @@
             "ctx-rh-supramarginal": 1.792303, 
             "ctx-rh-transversetemporal": 1.2713370000000002
         }, 
-        "name": "SDSU_0050212"
+        "name": "SDSU_0050212", 
+        "subject_id": "0050212"
     }, 
     {
         "check_masks": [
@@ -10653,7 +10800,8 @@
             "ctx-rh-supramarginal": 2.389266, 
             "ctx-rh-transversetemporal": 1.9565150000000002
         }, 
-        "name": "SDSU_0050213"
+        "name": "SDSU_0050213", 
+        "subject_id": "0050213"
     }, 
     {
         "check_masks": [
@@ -10725,7 +10873,8 @@
             "ctx-rh-supramarginal": 2.277359, 
             "ctx-rh-transversetemporal": 1.865661
         }, 
-        "name": "SDSU_0050214"
+        "name": "SDSU_0050214", 
+        "subject_id": "0050214"
     }, 
     {
         "check_masks": [
@@ -10797,6 +10946,7 @@
             "ctx-rh-supramarginal": 1.950077, 
             "ctx-rh-transversetemporal": 1.492309
         }, 
-        "name": "SDSU_0050215"
+        "name": "SDSU_0050215", 
+        "subject_id": "0050215"
     }
 ]
