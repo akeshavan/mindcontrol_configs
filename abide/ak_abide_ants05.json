@@ -1,8 +1,8 @@
 [
     {
         "check_masks": [
-            "RawData/NYU/0051130/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051130_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051130_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -74,8 +74,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051131/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051131_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051131_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -147,8 +147,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051132/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051132_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051132_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -220,8 +220,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051133/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051133_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051133_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -293,8 +293,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051134/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051134_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051134_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -366,8 +366,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051135/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051135_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051135_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -439,8 +439,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051136/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051136_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051136_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -512,8 +512,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051137/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051137_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051137_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -585,8 +585,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051138/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051138_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051138_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -658,8 +658,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051139/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051139_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051139_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -731,8 +731,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051140/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051140_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051140_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -804,8 +804,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051141/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051141_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051141_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -877,8 +877,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Trinity/0051142/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Trinity_0051142_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Trinity_0051142_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -950,8 +950,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051146/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051146_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051146_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1023,8 +1023,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051147/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051147_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051147_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1096,8 +1096,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051148/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051148_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051148_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1169,8 +1169,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051149/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051149_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051149_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1242,8 +1242,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051150/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051150_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051150_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1315,8 +1315,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051151/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051151_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051151_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1388,8 +1388,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051152/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051152_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051152_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1461,8 +1461,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051153/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051153_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051153_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1534,8 +1534,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051154/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051154_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051154_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1607,8 +1607,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051155/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051155_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051155_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1680,8 +1680,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051156/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051156_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051156_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1753,8 +1753,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/NYU/0051159/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/NYU_0051159_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/NYU_0051159_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1826,8 +1826,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051160/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051160_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051160_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1899,8 +1899,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051161/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051161_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051161_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -1972,8 +1972,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051162/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051162_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051162_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2045,8 +2045,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051163/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051163_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051163_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2118,8 +2118,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051164/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051164_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051164_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2191,8 +2191,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051165/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051165_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051165_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2264,8 +2264,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051166/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051166_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051166_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2337,8 +2337,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051167/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051167_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051167_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2410,8 +2410,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051168/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051168_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051168_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2483,8 +2483,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051169/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051169_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051169_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2556,8 +2556,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051170/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051170_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051170_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2629,8 +2629,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051171/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051171_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051171_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2702,8 +2702,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051172/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051172_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051172_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2775,8 +2775,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051173/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051173_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051173_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2848,8 +2848,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051174/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051174_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051174_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2921,8 +2921,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051175/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051175_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051175_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -2994,8 +2994,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051177/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051177_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051177_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3067,8 +3067,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051178/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051178_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051178_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3140,8 +3140,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051179/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051179_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051179_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3213,8 +3213,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051180/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051180_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051180_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3286,8 +3286,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051181/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051181_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051181_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3359,8 +3359,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051182/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051182_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051182_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3432,8 +3432,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051183/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051183_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051183_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3505,8 +3505,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051184/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051184_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051184_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3578,8 +3578,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051185/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051185_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051185_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3651,8 +3651,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051186/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051186_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051186_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3724,8 +3724,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051187/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051187_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051187_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3797,8 +3797,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051188/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051188_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051188_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3870,8 +3870,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051189/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051189_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051189_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -3943,8 +3943,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051190/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051190_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051190_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -4016,8 +4016,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051191/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051191_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051191_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -4089,8 +4089,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051192/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051192_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051192_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -4162,8 +4162,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051193/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051193_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051193_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -4235,8 +4235,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051194/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051194_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051194_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -4308,8 +4308,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051195/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051195_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051195_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -4381,8 +4381,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051196/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051196_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051196_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -4454,8 +4454,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051197/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051197_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051197_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -4527,8 +4527,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051198/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051198_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051198_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
@@ -4600,8 +4600,8 @@
     }, 
     {
         "check_masks": [
-            "RawData/Stanford/0051199/session_1/anat_1/mprage.nii.gz", 
-            "Outputs/ants/anat_thickness/Stanford_0051199_anat_thickness.nii.gz"
+            "https://dl.dropboxusercontent.com/u/9020198/data/OASIS-30_Atropos_template.nii.gz", 
+            "http://s3.amazonaws.com/fcp-indi/data/Projects/ABIDE_Initiative/Outputs/ants/anat_thickness/Stanford_0051199_anat_thickness.nii.gz"
         ], 
         "entry_type": "ants", 
         "metrics": {
